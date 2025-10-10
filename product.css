@@ -1,0 +1,39 @@
+.w{
+   
+}
+td{
+    
+}
+td:hover{
+  
+  background-color: rgb(99, 99, 251);
+}
+.a{
+    padding-left: 40px;
+}
+.b{
+    padding-left: 30px;
+}
+.c{
+    padding-left: 50px;
+}
+.d{
+    padding-left: 25px;
+}
+.w a{
+    color:black;
+}
+.w a{
+    text-decoration: none;
+    color:white;
+    
+} 
+.r{
+    margin-top: 20px;
+}
+.charge{
+    padding-top: 10px;
+}
+a:home{
+     background-color: rgb(99, 99, 251);
+}

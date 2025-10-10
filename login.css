@@ -1,0 +1,97 @@
+.one{
+  color:blue;
+  padding-top: 10px;
+  cursor:pointer;
+  padding-left: 20px;;
+}
+input{
+    padding-right: 200px;
+    height:40px;
+    margin-top:0px;
+    border-radius: 5px;
+    
+}
+.two{
+    
+    color:yellow;
+   
+}
+p{
+
+}
+.two{
+    padding-right: 200px;;
+    text-align: center;
+    
+}
+.e{
+    padding-top:10px;
+}
+button{
+    text-align: center;
+    padding-left: 160px;
+    padding-right: 160px;
+}
+.u{
+    padding-top: 10px;
+}
+
+.f{
+    padding-left: 125px;
+    padding-right: 125px;
+    margin-top: 20px;
+}
+.a{
+    padding-top: 10px;
+    padding-left: 20px;
+
+}
+.g{
+    background-color: blue;
+    border-radius: 40px;
+    
+    cursor:pointer;
+    border-color: blue;
+}
+.g:hover{
+   background-color: rgb(4, 4, 190);
+
+}
+.f{
+    border-radius: 5px;
+    background-color: red;
+    color:white;
+    cursor:pointer;
+    border-color: red;
+}
+.f:hover{
+    background-color: rgb(143, 5, 5);
+}
+body{
+    background-image: url('167038-macbook_air-imac-apple_macbook_pro-water-mountain-x750.jpg');
+    background-size:cover;
+    background-size: 100% 100%;
+}
+.q{
+    border:1px solid blue;
+   
+    width:300px;
+    height:380px;
+    
+    backdrop-filter: blur(3px);
+    box-shadow: 0 10px 30px 0 black;
+    border-radius: 40px;
+}
+.y{
+    color:white;
+}
+.y{
+    padding-left: 20px;
+   
+}
+.one:hover{
+    color:white;
+}
+.a:hover{
+    color:white;
+}
