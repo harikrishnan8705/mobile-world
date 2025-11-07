@@ -67,7 +67,7 @@ input{
     display:inline;
 }
 body{
-    background-color: ;
+    
 }
 .box:hover{
     background-color:black;
@@ -101,8 +101,9 @@ li:hover{
     height: 70px;
      }
 body{
-    background-image: url('wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass.jpg');
+    background-image: url('wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass copy.jpg');
     background-size: cover;
+   
 }
 .n{
     position: fixed;
